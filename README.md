@@ -64,19 +64,30 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<h3>📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepika2k24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=deepika2k24&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepika2k24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<h3 align="center">📊 GitHub & WakaTime Stats</h3>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=deepika2k24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <a href="https://wakatime.com/@deepika_2k24">
+        <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@deepika_2k24&langs_count=6&theme=dark&locale=en" alt="WakaTime Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://leetcode.com/u/deepika_2k24/">
+    <img src="https://leetcard.jacoblin.cool/deepika_2k24?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
+  </a>
+</div>
+
 </p>
 
-<h3>🏆 GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepika2k24&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
