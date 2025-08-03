@@ -78,12 +78,12 @@
     </td>
   </tr>
 </table>
-
 <div align="center">
-  <a href="https://leetcode.com/u/deepika_2k24/">
-    <img src="https://leetcard.jacoblin.cool/deepika_2k24?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
+  <a href="https://leetcode.com/deepika_2k24/">
+    <img src="https://leetcard.jacoblin.cool/deepika_2k24?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap" />
   </a>
 </div>
+
 
 </p>
 
@@ -92,10 +92,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Optional: Profile View Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepika2k24&label=Profile%20views&color=0e75b6&style=flat" alt="deepika2k24" />
-</p>
-<hr/>
 <p align="center">
   <em>"Crafting code with logic, design with soul, and dreams stitched in syntax."</em>
 </p>
