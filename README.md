@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### WakaTime Coding Stats
+### wakaTime coding Stats
 <!--START_SECTION:waka_time-->
 <!--END_SECTION:waka_time-->
 
