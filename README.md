@@ -61,30 +61,16 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<h3 align="center">📊 GitHub & WakaTime Stats</h3>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=deepika2k24&show_icons=true&theme=dark&hide_border=false&cachebuster=1" />
-    </td>
-    <td>
-      <a href="https://wakatime.com/@deepika_2k24">
-       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deepika_2k24&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+<h3 align="center">📊 WakaTime Stats</h3>
+### ⏳ WakaTime Coding Stats
+<!--START_SECTION:waka_time-->
+<!--END_SECTION:waka_time-->
 
 <div align="center">
   <a href="https://www.leetcode.com/deepika_2k24">
     <img src="https://leetcard.jacoblin.cool/deepika_2k24?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
   </a>
 </div>
-⏳ WakaTime Coding Stats
-<!--START_SECTION:waka_time-->
-<!--END_SECTION:waka_time-->
 
 <p align="center">
   <em>"Crafting code with logic, design with soul, and dreams stitched in syntax."</em>
