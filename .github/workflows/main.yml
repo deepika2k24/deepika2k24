@@ -2,7 +2,7 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # Update every 2 hours
+    - cron: "0 */2 * * *"   # Every 2 hours
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,6 @@ jobs:
           SECTION_NAME: waka_time
           TIME_RANGE: last_7_days
           LANG_COUNT: 6
-          BLOCKS: ->
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
@@ -33,4 +32,3 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Updated WakaTime stats"
-
