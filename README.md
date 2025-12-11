@@ -82,6 +82,9 @@
     <img src="https://leetcard.jacoblin.cool/deepika_2k24?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
   </a>
 </div>
+⏳ WakaTime Coding Stats
+<!--START_SECTION:waka_time-->
+<!--END_SECTION:waka_time-->
 
 <p align="center">
   <em>"Crafting code with logic, design with soul, and dreams stitched in syntax."</em>
