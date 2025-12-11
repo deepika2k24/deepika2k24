@@ -1,16 +1,36 @@
-name: Work Stats Readme
+name: Update WakaTime Stats
 
 on:
-  workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "0 */2 * * *"   # Update every 2 hours
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README with WakaTime metrics
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate WakaTime section
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka_time
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 6
+          BLOCKS: ->
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+
+      - name: Commit & Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Updated WakaTime stats"
+
