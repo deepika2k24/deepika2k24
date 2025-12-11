@@ -66,30 +66,23 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=deepika2k24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=deepika2k24&show_icons=true&theme=dark&hide_border=false&cachebuster=1" />
     </td>
     <td>
       <a href="https://wakatime.com/@deepika_2k24">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=@deepika_2k24&langs_count=6&theme=dark&locale=en" alt="WakaTime Stats" />
+       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deepika_2k24&theme=dark" />
       </a>
     </td>
   </tr>
 </table>
+
+
 <div align="center">
-<a href="https://www.leetcode.com/deepika_2k24">
+  <a href="https://www.leetcode.com/deepika_2k24">
     <img src="https://leetcard.jacoblin.cool/deepika_2k24?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
-</a>
+  </a>
 </div>
 
-
-</p>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Optional: Profile View Counter -->
 <p align="center">
   <em>"Crafting code with logic, design with soul, and dreams stitched in syntax."</em>
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
