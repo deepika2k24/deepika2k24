@@ -72,6 +72,14 @@
     <img src="https://leetcard.jacoblin.cool/deepika_2k24?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
   </a>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/deepika2k24/deepika2k24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/deepika2k24/deepika2k24/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/deepika2k24/deepika2k24/output/pacman-contribution-graph.svg">
+</picture>
 
 
 <p align="center">
