@@ -73,6 +73,13 @@
   </a>
 </div>
 
+<h2>🌱 Open Source</h2>
+
+<ul>
+  <li>Hacktoberfest participant</li>
+  <li>Learning open-source collaboration and contribution workflows</li>
+  <li>Interested in developer productivity and learning tools</li>
+</ul>
 
 
 <p align="center">
