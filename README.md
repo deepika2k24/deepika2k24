@@ -67,11 +67,7 @@
 </p>
 
 
-<div align="center">
-  <a href="https://www.leetcode.com/deepika_2k24">
-    <img src="https://leetcard.jacoblin.cool/deepika_2k24?theme=dark&font=Barlow%20Semi%20Condensed&ext=heatmap">
-  </a>
-</div>
+
 
 <h2>🌱 Open Source</h2>
 
