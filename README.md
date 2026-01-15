@@ -76,6 +76,14 @@
   <li>Learning open-source collaboration and contribution workflows</li>
   <li>Interested in developer productivity and learning tools</li>
 </ul>
+<p align="center">
+  <a href="https://holopin.io/@deepika2k24">
+    <img
+      src="https://holopin.me/@deepika2k24"
+      alt="Holopin badges of @deepika2k24"
+    />
+  </a>
+</p>
 
 
 <p align="center">
